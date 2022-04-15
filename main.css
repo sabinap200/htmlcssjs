@@ -1,0 +1,27 @@
+body
+{
+	/* background-color: gray; */
+	background-color: #ccc;
+}
+hr
+{
+	height:10px;
+	width:40%;
+	background-color:gray;
+	border-width:5px;
+}	
+table, td {
+	border-width:1px;
+	border-style:solid;
+	border-color:black;
+}
+table {
+	width: 50%;
+	border-collapse:collapse;
+}
+doPrawej{
+	text-align:right;
+}
+#komorka7{
+	text-align:center;
+}
